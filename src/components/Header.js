@@ -7,7 +7,7 @@ class Header extends React.Component {
       <div className="header-wrapper">
         <h1 className="start-game-header-text">Click An Image To Begin</h1>
         <br />
-        <h4>The goal of this game is to click on the images without clicking on the same image twice</h4>
+        <h4>The goal of this game is to click on an image without clicking on the same image twice</h4>
       </div>
     );
   }
