@@ -23,9 +23,9 @@ class App extends Component {
   // 1) id - The id of the image clicked
   imageClicked = (id) => {
 
-    // Condition that checks if the imgage clicked has a property clicked that is true or false
+    // Condition that checks if the image clicked has a property clicked that is true or false
     if(this.state.clickedPicsArr.includes(id)) {
-      // Checks if score beat highscore
+      // Checks if score beat high score
       if(this.state.score > this.state.highScore) {
         this.setState({highScore: this.state.score});
       }
