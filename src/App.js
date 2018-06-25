@@ -13,7 +13,7 @@ class App extends Component {
     clickedPicsArr: [],
     score: 0,
     highScore: 0,
-    message: "Click an Image to Start"
+    message: "Click a Pic"
   }
 
   componentDidMount() {
