@@ -2,8 +2,12 @@ import React from "react";
 
 const NavBar = props => (
   <nav className="navbar fixed-top navbar navbar-dark bg-dark">
-    <span>Click The Pic</span>
+    <div>
+    <span>Clicky Game</span>
+    </div>
+    <div>
     <span>{props.message}</span>
+    </div>
     <span>
       <span>Score: {props.score}</span>
       <span>   |    </span>
