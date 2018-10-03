@@ -1,3 +1,5 @@
+React App - clickygame is a game where you click on a Pic (an image) to gain points, but if you click on an image that you previously clicked on, it will start again. Good luck! -Andrew Bain
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
