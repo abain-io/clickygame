@@ -1,4 +1,4 @@
-Built with React App - The "Clickygame" app is a game where you click on a picture (or image) to gain points; but if you click on an image that was previously clicked on, it will start over again. Keep an eye on your score as you click, and remember which images you have alredy clicked on. Good luck! 
+Built with React  - The "Clickygame" app is a game where you click on a picture (or image) to gain points; but if you click on an image that was previously clicked on, it will start over again. Keep an eye on your score as you click, and remember which images you have alredy clicked on. Good luck! 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
